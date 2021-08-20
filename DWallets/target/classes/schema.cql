@@ -4,5 +4,5 @@ CREATE TABLE IF NOT EXIST customers(
   id int PRIMARY KEY,
   lastname text,
   firstname text,
-  balance double
+  balance double );
 );
