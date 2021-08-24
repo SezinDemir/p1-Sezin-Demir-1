@@ -12,9 +12,9 @@ Crud Operations:
 
 ## Technologies
 
-Junit
-Java
-Logback (slfj4)
-Spring Framework
-Cassandra DB
-Maven
+*Junit
+*Java
+*Logback (slfj4)
+*Spring Framework
+*Cassandra DB
+*Maven
